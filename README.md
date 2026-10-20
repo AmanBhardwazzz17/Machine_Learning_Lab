@@ -7,7 +7,7 @@
 
 A collection of my **Machine Learning Lab assignments and practice implementations** from IIT Patna. The focus is to understand each algorithm by implementing it **from scratch in Python**, and then cross-checking the result against the standard library implementation (scikit-learn / SciPy).
 
-> **Author:** Aman Bhardwaz · B.S. Computer Science & Data Analytics, IIT Patna (2025–2029)
+> **Author:** Aman Kumar · B.S. Computer Science & Data Analytics, IIT Patna (2025–2029)
 
 ---
 
